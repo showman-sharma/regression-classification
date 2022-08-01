@@ -1,8 +1,8 @@
-# ASSIGNEMNT 2
+# REGRESSION and CLASSIFICATION
 _________________________________
-Authored by Team 18:
-V S S Anirudh Sharma, EE18B036
-Hema Landa, EE19B036
+Authored by:
+V S S Anirudh Sharma
+Hema Landa
 _________________________________
 
 
