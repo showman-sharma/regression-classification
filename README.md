@@ -1,8 +1,6 @@
 # REGRESSION and CLASSIFICATION
 _________________________________
-Authored by:
-V S S Anirudh Sharma
-Hema Landa
+Authored by V S S Anirudh Sharma and Hema Landa
 _________________________________
 
 
